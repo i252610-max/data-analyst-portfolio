@@ -15,3 +15,7 @@ Superstore Sales - 9994 rows, 21 columns (2015-2018)
 5. Phones is the top selling sub-category
 
 # Day-2 completed
+
+# Day 3 complete :
+Excel formulas, DataCamp Python 
+certified, Kaggle Python lessons 1-2 done
