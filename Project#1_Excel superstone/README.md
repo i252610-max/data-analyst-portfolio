@@ -1,21 +1,29 @@
-# Project 1 - Superstore Sales Analysis
+# Project 1 — Superstore Sales Analysis
+
+## Overview
+Analysis of 9994 retail orders across 4 US regions 
+from 2015 to 2018 using Excel.
 
 ## Tools Used
-Excel
+Microsoft Excel — Pivot Tables, Charts, Dashboard, 
+SUMIF, COUNTIF, IF formulas
 
 ## Dataset
-Superstore Sales - 9994 rows, 21 columns (2015-2018)
+Sample Superstore dataset — 9994 rows, 21 columns
+Source: Kaggle
 
 ## Key Findings
-1. West region has highest total sales
+1. West region has highest total sales at 725,458
 2. Technology is most profitable category
-3. Furniture has high sales but lowest profit
-4. Office Supplies has lower sales than Furniture 
-   but higher profit
-5. Phones is the top selling sub-category
+3. Furniture has high sales but lowest profit margin
+4. Office Supplies more profitable per sale than Furniture
+5. Phones is top selling sub-category
+6. West has highest average order value
 
-# Day-2 completed
+## Dashboard
+<img width="601" height="194" alt="image" src="https://github.com/user-attachments/assets/2d1e4b89-e0d7-4eda-a4b3-50baed567fc8" />
 
-# Day 3 complete :
-Excel formulas, DataCamp Python 
-certified, Kaggle Python lessons 1-2 done
+
+## Skills Demonstrated
+Data cleaning, pivot tables, dashboard building, 
+business insight generation
