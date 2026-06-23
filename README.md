@@ -4,4 +4,8 @@ My name is Muhammad maaz and i'm BS DS student in FAST UNI. Today on 15th june i
 
 ## Certifications
 - Introduction to Data Analytics — IBM / Coursera (June 2026)
-- Introduction to python - DataCamp (June 2026)
+  Verify: https://coursera.org/verify/NXDN0AYT7JMX
+- Excel Basics for Data Analysis — IBM / Coursera (June 2026)
+  Verify: https://coursera.org/verify/J8HLQCDXE3E2
+- Introduction to Python — DataCamp (June 2026)
+- Python — Kaggle (June 2026)
