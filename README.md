@@ -8,6 +8,6 @@ My name is Muhammad maaz and i'm BS DS student in FAST UNI. Today on 15th june i
 - Excel Basics for Data Analysis — IBM / Coursera (June 2026)
   Verify: https://coursera.org/verify/J8HLQCDXE3E2
 - Data Visualization and Dashboards with Excel and Cognos - IBM / Coursera (June 2026)
-  Verify: https://cour sera.org/ver ify/TBGR153FGPNB
+  Verify: https://coursera.org/verify/TBGR153FGPNB
 - Introduction to Python — DataCamp (June 2026)
 - Python — Kaggle (June 2026)
