@@ -11,5 +11,6 @@ My name is Muhammad maaz and i'm BS DS student in FAST UNI. Today on 15th june i
   Verify: https://coursera.org/verify/TBGR153FGPNB
 - Introduction to Python — DataCamp (June 2026)
 - Python — Kaggle (June 2026)
+- Pandas - Kaggle (June 2026)
 - Excel Essentials for Data Analytics — IBM Digital Credential
 - Data Visualization & Dashboard Essentials — IBM Digital Credential
