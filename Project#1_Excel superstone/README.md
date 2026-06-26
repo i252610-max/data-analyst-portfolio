@@ -27,3 +27,16 @@ Source: Kaggle
 ## Skills Demonstrated
 Data cleaning, pivot tables, dashboard building, 
 business insight generation
+
+## Python Analysis
+After completing Excel analysis, rebuilt the same 
+analysis in Python using Pandas and Matplotlib.
+
+Tools: Python, Pandas, Matplotlib, NumPy
+
+Charts:
+- Sales by Region (bar chart)
+- Profit by Category (horizontal bar)
+- Sales vs Profit scatter plot
+- Orders by Segment (pie chart)
+- Sales distribution (histogram)
