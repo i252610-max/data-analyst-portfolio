@@ -15,10 +15,13 @@ Python, SQLite3, Pandas, SQL
 
 ## Key SQL Findings
 
-1. Furniture has lowest profit margin (8.69 avg) 
-   despite being 2nd highest in sales
-2. High discounts directly correlate with 
-   negative profit — discounting is hurting the business
-3. California is the highest sales state
-4. Consumer segment has most orders but 
-   Corporate has higher average order value
+1. California is the top state by sales at $457,687
+2. Furniture has lowest avg profit at $8.69 
+   despite $741K in total sales
+3. Discount analysis reveals serious profitability problem:
+   - No discount: avg profit $66.98 — healthy
+   - Low discount: avg profit $26.58 — declining  
+   - Medium discount: avg profit -$77.86 — losing money
+   - High discount: avg profit -$106.70 — worst performer
+4. Recommendation: Company should eliminate medium 
+   and high discounts immediately
