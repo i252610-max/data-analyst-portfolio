@@ -13,7 +13,12 @@ Python, SQLite3, Pandas, SQL
 - Top 10 sub-categories by sales
 - Order count analysis
 
-## Key findings
-- West region highest total sales
-- Technology highest average profit
-- Copiers highest profit per order
+## Key SQL Findings
+
+1. Furniture has lowest profit margin (8.69 avg) 
+   despite being 2nd highest in sales
+2. High discounts directly correlate with 
+   negative profit — discounting is hurting the business
+3. California is the highest sales state
+4. Consumer segment has most orders but 
+   Corporate has higher average order value
