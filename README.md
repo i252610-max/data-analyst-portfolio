@@ -12,6 +12,7 @@ My name is Muhammad maaz and i'm BS DS student in FAST UNI. Today on 15th june i
 - Python for Data Science, AI & Development - IBM / Coursera (June 2026) Verify: https://coursera.org/verify/WYV138X97T7P
 - Python Project for Data Science - IBM / Coursera (June 2026) Verify: https://coursera.org/verify/VCHAT74ZDRY5
 - Databases and SQL for Data Science with Python - IBM / Cursera (June 2026) Verify: https://coursera.org/verify/HERM7L1QWSSM
+- Data Analysis with Python - IBM / Coursera (Jul 2026) Verify: https://coursera.org/verify/4RD8WHEUWMT2
 - Introduction to Python — DataCamp (June 2026)
 - Intermediate Python - DataCamp(June 2026)
 - Python — Kaggle (June 2026)
@@ -19,3 +20,4 @@ My name is Muhammad maaz and i'm BS DS student in FAST UNI. Today on 15th june i
 - Excel Essentials for Data Analytics — IBM Digital Credential
 - Data Visualization & Dashboard Essentials — IBM Digital Credential
 - Python for data science and AI - IBM Digital Credential
+- Data Analysis with Python - IBM Digital Credential
