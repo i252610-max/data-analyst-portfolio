@@ -1,0 +1,13 @@
+RespondentID,MainBranch,Employment,RemoteWork,Country,Age,YearsCode,EdLevel,ConvertedCompYearly
+1,Data science,Employed full-time,Less than half the time,USA,25-34 years old,3,Master's degree,70000
+2,Data science,Employed full-time,Less than half the time,USA,25-34 years old,3,Master's degree,70000
+3,Data science,Employed part-time,More than half the time,Canada,18-24 years old,1,Bachelor's degree,20000
+4,Software development,Employed full-time,All the time,India,25-34 years old,5,Bachelor's degree,15000
+5,Data science,Employed full-time,Less than half the time,USA,25-34 years old,3,Master's degree,70000
+6,Software development,Employed full-time,All the time,India,25-34 years old,5,Bachelor's degree,15000
+7,Data science,Employed part-time,More than half the time,Canada,18-24 years old,1,Bachelor's degree,20000
+8,Data engineering,Employed full-time,All the time,Germany,35-44 years old,8,Master's degree,90000
+9,Data engineering,Employed full-time,All the time,Germany,35-44 years old,8,Master's degree,90000
+10,Data science,Employed full-time,Less than half the time,USA,25-34 years old,3,,70000
+11,Data science,Employed full-time,Less than half the time,USA,25-34 years old,3,Master's degree,
+12,Data engineering,Employed full-time,All the time,Germany,35-44 years old,8,Master's degree,90000
