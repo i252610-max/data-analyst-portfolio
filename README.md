@@ -33,3 +33,7 @@ https://coursera.org/verify/professional-cert/HYLJUI8WV2HK
 - IBM Data Analyst Capstone Project - IBM Digital Credential
 - Data Analyst Career Guide and Interview Preparation - IBM Digital Credential 
 
+## 🚀 Flagship Project
+  [Global Markets Intelligence Dashboard](https://github.com/i252610-max/-global-markets-dashboard.git) — 
+  multi-market financial analytics platform (PSX, Crypto, 
+  Metals, Global Stocks) with signal detection and backtesting.
