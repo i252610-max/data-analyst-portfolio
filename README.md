@@ -18,6 +18,7 @@ My name is Muhammad maaz and i'm BS DS student in FAST UNI. Today on 15th june i
 - Generative AI: Enhance your Data Analytics Career - IBM / Coursera (Jul 2026) Verify: https://coursera.org/verify/XBYP9RGEVQT9
 - Data Analyst Career Guide and Interview Preparation - IBM / Coursera (Jul 2026) Verify: https://coursera.org/verify/62FTX51Z7QNK
 - Preparing Data for Analysis with Microsoft Excel - Microsoft / Coursera (Jul 2026) Veify: https://coursera.org/verify/MG785CLNWHLI
+- Harnessing the Power of Data with Power BI - Microsoft / Coursera (Jul 2026) Verify: https://coursera.org/verify/XR1F8W2PRXQF
   # IBM Data Analyst - IBM / Coursera Verify this certificate at:
 https://coursera.org/verify/professional-cert/HYLJUI8WV2HK
 # Badges
